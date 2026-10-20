@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Quantum Revolutionary** · Team ID `VTU-QFF-HC-0069` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Quantum Revolutionary)
+[⬆ Back to Top](#quantum-revolutionary)
 
 </div>
